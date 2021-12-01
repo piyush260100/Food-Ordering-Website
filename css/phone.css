@@ -1,0 +1,35 @@
+/* navigation bar */
+#navbar{
+    flex-direction: column;
+}
+
+
+/* home section. */
+#home{
+
+    
+}
+#home::before{
+    height:82%;
+}
+
+/* services section. */
+#services{
+/* display: flex; */
+flex-direction: column;
+margin:auto
+}
+
+/* client section. */
+#client-section{
+
+}
+
+/* contact_us_section */
+#contact_us_section{
+
+}
+
+body{
+    background-color: rgb(223, 105, 105);
+}
